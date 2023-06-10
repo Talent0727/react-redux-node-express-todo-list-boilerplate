@@ -15,7 +15,6 @@ PostgreSQL
 ```
 
 ##### FYI
-
 * The use of the $ character symbolizes that the following text needs to be entered in the terminal/powershell
 
 #### Setup Notes
